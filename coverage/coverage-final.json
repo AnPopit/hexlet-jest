@@ -1,0 +1,2 @@
+{"C:\\Users\\user\\hexlet-jest\\src\\index.js": {"path":"C:\\Users\\user\\hexlet-jest\\src\\index.js","statementMap":{"0":{"start":{"line":2,"column":24},"end":{"line":2,"column":56}}},"fnMap":{"0":{"name":"(anonymous_0)","decl":{"start":{"line":2,"column":15},"end":{"line":2,"column":16}},"loc":{"start":{"line":2,"column":24},"end":{"line":2,"column":56}},"line":2}},"branchMap":{},"s":{"0":2},"f":{"0":2},"b":{},"_coverageSchema":"1a1c01bbd47fc00a2c39e90264f33305004495a9","hash":"cc9e8efe8638482c5ecf1c0eb2f5757fdc3a4648"}
+}
